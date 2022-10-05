@@ -4,7 +4,7 @@
 ### Howdy? :cowboy_hat_face:
 
 Wellcome to my GitHub.
-I'm Stephen, a 🇧🇷 brazilian redneck. Actualy I'm a soldier in the NTS (Technology and Systems Core) of 🚒 CBMMG (Military Fire Department of the State of Minas Gerais). I served in the brazilian 🪖 army and ⚓ navy. I've been dedicating to continuously learning, doing all courses I can. Some projects here are just courses, most of my projects cannot be public.
+I'm Stephen, a 🇧🇷 brazilian redneck. Currently I'm a soldier in the NTS (Technology and Systems Core) of 🚒 CBMMG (Military Fire Department of the State of Minas Gerais). I served in the brazilian 🪖 army and ⚓ navy. I've been dedicating to continuously learning, doing all courses I can. Some projects here are just courses, most of my projects cannot be public.
 
 <div align="center">
   <a href="https://github.com/stephenroque">
