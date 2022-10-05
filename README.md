@@ -1,5 +1,3 @@
-<img alt="Stephen-banner" style="border-radius:50px;" src="http://mundocaipira.com.br/stephen.jpeg">
-
 ### Howdy? :cowboy_hat_face:<br>
 
 Wellcome to my GitHub.
@@ -30,3 +28,4 @@ I'm Stephen, a brazilian 🇧🇷 redneck. Currently I'm a soldier in the NTS (T
  	<a href="https://www.twitch.tv/stephenroque" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:stephen.roque@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+<!--<img alt="Stephen-banner" style="border-radius:50px;" src="http://mundocaipira.com.br/stephen.jpeg">--!>
