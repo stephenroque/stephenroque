@@ -1,9 +1,6 @@
-<!--<img alt="Stephen-banner" style="border-radius:50px;" src="http://mundocaipira.com.br/stephen.jpeg">-->
+### Wellcome to my GitHub.
 
-### Howdy? :cowboy_hat_face:
-
-Wellcome to my GitHub.
-I'm Stephen, a brazilian 🇧🇷 redneck. Currently I'm a soldier in the NTS (Technology and Systems Core) of 🚒 CBMMG (Military Fire Department of the State of Minas Gerais). I served in the brazilian army 🪖 and navy ⚓. I've been dedicating to continuously learning 👨🏽‍💻. Some projects here are just courses, most of my projects can't be public.
+My name is Stephen and I'm brazilian. Currently I'm a soldier in the NTS (Technology and Systems Core) of 🚒 CBMMG (Military Fire Department of the State of Minas Gerais). I served in the brazilian army 🪖 and navy ⚓. I've been dedicating to continuously learning 👨🏽‍💻. Some projects here are just courses, most of my projects can't be public.
 
 <!--<div align="center">
   <a href="https://github.com/stephenroque">
@@ -13,6 +10,7 @@ I'm Stephen, a brazilian 🇧🇷 redneck. Currently I'm a soldier in the NTS (T
 </div>-->
 <div style="display: inline_block"><br>
   <a href="https://github.com/stephenroque">
+  <img alt="Stephen"  style="border-radius:50px;" src="https://mundocaipira.com.br/NTS.png">
   <img align="center" alt="Stephen-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Stephen-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Stephen-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
@@ -23,7 +21,7 @@ I'm Stephen, a brazilian 🇧🇷 redneck. Currently I'm a soldier in the NTS (T
   <img align="center" alt="Stephen-VS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   </a>
   <a href="https://github.com/stephenroque">
-  <img align="right" alt="Cowboy-pic" height="150" style="border-radius:50px;" src="https://mundocaipira.com.br/cowboy.gif">
+  <img align="right" alt="Cowboy-pic" height="150" style="border-radius:50px;" src="https://www.bombeiros.mg.gov.br/images/logo.png">
   </a>
 </div>
 
