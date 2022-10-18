@@ -2,12 +2,12 @@
 
 My name is Stephen and I'm brazilian. Currently I'm a <del>developer</del> soldier in the NTS (Technology and Systems Core) of CBMMG (Military Fire Department of the State of Minas Gerais). I served in the brazilian army and navy. I've been dedicating to continuously learning.
 
-<!--<div align="center">
+<div align="center">
   <a href="https://github.com/stephenroque">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stephenroque&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephenroque&layout=compact&langs_count=7&theme=darcula"/>
   </a>
-</div>-->
+</div>
 <div style="display: inline_block"><br>
   <a href="https://github.com/stephenroque">
   <img alt="Stephen"  style="border-radius:50px;" src="https://mundocaipira.com.br/NTS.png">
