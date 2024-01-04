@@ -10,7 +10,7 @@ My name is Stephen and I'm brazilian. Currently I'm a <del>developer</del> soldi
 </div>
 <div style="display: inline_block"><br>
   <a href="https://github.com/stephenroque">
-  <img alt="Stephen"  style="border-radius:50px;" src="https://mundocaipira.com.br/NTS.png">
+  <!--<img alt="Stephen"  style="border-radius:50px;" src="https://mundocaipira.com.br/NTS.png">-->
   <img align="center" alt="Stephen-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Stephen-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Stephen-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
