@@ -6,7 +6,7 @@ My name is Stephen and I'm brazilian. Currently I'm a <del>developer</del> soldi
   <a href="https://github.com/stephenroque">
   <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=stephenroque&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephenroque&layout=compact&langs_count=7&theme=darcula"/>-->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephenroque"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephenroque&count_private=true"/>
   </a>
 </div>
 <div style="display: inline_block"><br>
