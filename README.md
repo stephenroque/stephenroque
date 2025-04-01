@@ -1,6 +1,6 @@
 ### Wellcome to my GitHub.
 
-My name is Stephen and I'm brazilian. Currently I'm a <del>developer</del> soldier in the NTS (Technology and Systems Core) of CBMMG (Military Fire Department of the State of Minas Gerais). I served in the brazilian army and navy. I've been dedicating to continuously learning.
+My name is Stephen and I'm brazilian. Currently I'm a <del>developer</del> corporal in the NTS (Technology and Systems Core) of CBMMG (Military Fire Department of the State of Minas Gerais). I served in the brazilian army and navy. I've been dedicating to continuously learning.
 
 <div align="center">
   <a href="https://github.com/stephenroque">
