@@ -16,6 +16,7 @@ My name is Stephen and I'm brazilian. Currently I'm a <del>developer</del> corpo
   <img align="center" alt="Stephen-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Stephen-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="Stephen-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg">
+  <img align="center" alt="Stephen-Filament" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filamentphp/filamentphp-original.svg">
   <img align="center" alt="Stephen-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Stephen-PY" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Stephen-MS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
