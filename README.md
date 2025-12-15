@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./banner.png" width="100%" alt="Cybersecurity Banner">
+  <a target="_blank" href="https://wakatime.com/@80982077-b965-4e27-aa70-78fdbe1ca162"><img src="https://wakatime.com/badge/user/80982077-b965-4e27-aa70-78fdbe1ca162.svg" alt="Total time coded since Aug 7 2025" /></a>
 </div>
-
 <br>
 
 <h1 align="center">Hi, I'm Stephen Roque 👋</h1>
