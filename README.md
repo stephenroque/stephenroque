@@ -2,73 +2,57 @@
   <img src="./banner.png" width="100%" alt="Cybersecurity Banner">
   <a target="_blank" href="https://wakatime.com/@80982077-b965-4e27-aa70-78fdbe1ca162"><img src="https://wakatime.com/badge/user/80982077-b965-4e27-aa70-78fdbe1ca162.svg" alt="Total time coded since Aug 7 2025" /></a>
 </div>
+
 <br>
 
 <h1 align="center">Hi, I'm Stephen Roque 👋</h1>
-<h3 align="center">System & Network Administrator | IT Infrastructure & Security</h3>
+<h3 align="center">Cybersecurity (GRC | TPRM) | IT Infrastructure | Critical Systems</h3>
 
 <p align="center">
-  <em>Military Firefighter specializing in Critical Operations, transitioning to Cybersecurity & GRC.</em>
+  <em>Military Firefighter at NTS - CBMMG</em>
 </p>
 
 <br>
 
 ### 🛡️ About Me
 
-I am a **Technology Professional** based in Brazil with a unique background that blends technical expertise in IT Infrastructure with high-stakes operational discipline. Currently serving in the **NTS (Technology and Systems Core)** of the **Military Fire Department of Minas Gerais (CBMMG)**, I bring resilience and a security-first mindset to every project.
+I am a **Cybersecurity and Risk Management** professional with a technical foundation in infrastructure and systems administration within mission-critical environments. Currently serving in the **Technology and Systems Core (NTS)** of the **Military Fire Department of Minas Gerais (CBMMG)**, I specialize in GRC and TPRM, leveraging the discipline of a 20-year career in the Brazilian Army, Navy, and Fire Department.
 
-* 🎓 **Student:** BSc in Computer Science at University of the People (UoPeople).
-* 🔭 **Focus:** Specializing in **Cybersecurity**, **Governance, Risk, and Compliance (GRC)**.
+* 🎓 **Academic:** BSc in Computer Science at University of the People (Current GPA: **3.85**).
+* 🔭 **Focus:** Governance, Risk, and Compliance (GRC), TPRM, and Infrastructure Security.
 * 💼 **Experience:** Former Brazilian Army & Navy veteran with over a decade of disciplined service.
-* 🌱 **Learning:** Advanced Linux Administration, Risk Management Frameworks, and Network Security.
+* 🌱 **Specializing:** Preparing for **CompTIA Security+** and deepening Risk Management Frameworks.
 
 ---
 
 ### 🛠️ Technical Arsenal
 
 **Infrastructure, Security & Cloud**
-<div style="display: inline_block">
-  <img align="center" alt="Windows" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg">
-  <img align="center" alt="Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img align="center" alt="Kali Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kalilinux/kalilinux-original.svg">
-  <img align="center" alt="AWS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-  <img align="center" alt="Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  <img align="center" alt="Bash" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
-  <img align="center" alt="OhMyZSH" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ohmyzsh/ohmyzsh-original.svg">
-  <img align="center" alt="Vim" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg">
-  <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-</div>
+<br>
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
 
 <br>
 
 **Development & AppSec Context**
-<div style="display: inline_block">
-  <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" alt="Laravel" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg">
-  <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-  <img align="center" alt="Javascript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-</div>
+<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB3?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Bash](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 <br>
 
-**Tools & GRC**
-<div style="display: inline_block">
-  <img align="center" alt="VSCode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="PhpStorm" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg">
-  <img align="center" alt="Notion" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg">
-</div>
+**Tools & Management**
+<br>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 ---
 
-### 📜 Key Certifications & Bootcamps
-* **Cybersecurity Specialist** | DIO (2025)
-* **AWS Cloud Bootcamp** | DIO (2023)
-* **Linux Experience** | DIO (2023)
-* **PHP Experience & Laravel API** | DIO (2024)
-* **English Proficiency (B2+)** | UoPeople (2023) 🇺🇸
-* **Spanish Proficiency (B2)** | Universidad de Salamanca (2023) 🇪🇸
+### 📜 Key Certifications & Honors
+* **Cybersecurity Specialist** | DIO
+* **Certified Fundamentals Cybersecurity** | Fortinet
+* **Introduction to Cybersecurity** | Cisco
+* **Intermediate English (B2+)** | UoPeople 🇺🇸
+* **Spanish Proficiency (B2)** | Universidad de Salamanca 🇪🇸
+* **Dean's List & President's List** | Academic Honors at UoPeople
+* **Meritorious Note** | Professional Recognition for Search & Rescue (Brumadinho Mission)
 
 ---
 
