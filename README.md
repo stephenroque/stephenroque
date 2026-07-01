@@ -46,9 +46,10 @@ I am a **Cybersecurity and Risk Management** professional with a technical found
 ---
 
 ### 📜 Key Certifications & Honors
-* **Cybersecurity Specialist** | DIO
+* **Ethical Hacker** | Cisco
 * **Certified Fundamentals Cybersecurity** | Fortinet
-* **Introduction to Cybersecurity** | Cisco
+* **GRC Specialist** | Hackers do Bem
+* **Cybersecurity Specialist** | DIO
 * **Intermediate English (B2+)** | UoPeople 🇺🇸
 * **Spanish Proficiency (B2)** | Universidad de Salamanca 🇪🇸
 * **Dean's List & President's List** | Academic Honors at UoPeople
