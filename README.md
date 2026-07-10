@@ -87,7 +87,7 @@ My career spans more than 20 years across the Brazilian Army, Brazilian Navy, an
 ### Cybersecurity
 
 - **GRC Specialist** — Hackers do Bem
-- **Google Cloud Computing Foundations** 
+- **Google Cloud Computing Foundations Certificate** 
 - **Ethical Hacker** — Cisco
 - **Certified Fundamentals Cybersecurity** — Fortinet
 - **Cybersecurity Specialist** — DIO
