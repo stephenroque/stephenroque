@@ -28,7 +28,7 @@ Currently serving in the Technology and Systems Core (NTS) of the Military Fire 
 
 My career spans more than 20 years across the Brazilian Army, Brazilian Navy, and Military Fire Department, with experience supporting high-reliability organizations where operational continuity, resilience, and disciplined risk management are essential.
 
-- 🎓 **B.Sc. in Computer Science** — University of the People *(GPA: **3.85**)*
+- 🎓 **B.Sc. in Computer Science** — University of the People *(graduated **Summa Cum Laude** with a **3.86** CGPA)*
 - 🛡️ **Focus:** Governance, Risk & Compliance (GRC), Third-Party Risk Management (TPRM), Critical Infrastructure Protection
 - 🌎 **Experience:** Military operations, IT infrastructure, public-sector procurement, secure systems, and cybersecurity governance
 - 📚 **Currently advancing expertise in:** Security+, NIST RMF, ISO/IEC 27001, Risk Management and Security Frameworks
